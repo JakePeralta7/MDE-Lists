@@ -59,7 +59,6 @@ MpCmdRun.exe
 Msbuild.exe
 Msconfig.exe
 Msdt.exe
-Msedge.exe
 Mshta.exe
 Msiexec.exe
 Netsh.exe
@@ -116,7 +115,6 @@ Wsreset.exe
 wuauclt.exe
 Xwizard.exe
 msedge_proxy.exe
-msedgewebview2.exe
 wt.exe
 AccCheckConsole.exe
 adplus.exe
@@ -138,7 +136,6 @@ dtutil.exe
 Dump64.exe
 DumpMinitool.exe
 Dxcap.exe
-Excel.exe
 Fsi.exe
 FsiAnyCpu.exe
 Mftrace.exe
@@ -146,11 +143,9 @@ Microsoft.NodejsTools.PressAnyKey.exe
 MSAccess.exe
 Msdeploy.exe
 MsoHtmEd.exe
-Mspub.exe
 msxsl.exe
 ntdsutil.exe
 OpenConsole.exe
-Powerpnt.exe
 Procdump.exe
 ProtocolHandler.exe
 rcsi.exe
@@ -160,20 +155,17 @@ Sqlps.exe
 SQLToolsPS.exe
 Squirrel.exe
 te.exe
-Teams.exe
 TestWindowRemoteAgent.exe
 Tracker.exe
 Update.exe
 VSDiagnostics.exe
 VSIISExeLauncher.exe
-Visio.exe
 VisualUiaVerifyNative.exe
 VSLaunchBrowser.exe
 Vshadow.exe
 vsjitdebugger.exe
 Wfc.exe
 WinProj.exe
-Winword.exe
 Wsl.exe
 devtunnel.exe
 vsls-agent.exe
