@@ -52,7 +52,6 @@ dxcap.exe
 esentutl.exe
 eventvwr.exe
 expand.exe
-explorer.exe
 extexport.exe
 extrac32.exe
 findstr.exe
@@ -146,7 +145,6 @@ tttracer.exe
 unregmp2.exe
 update.exe
 vbc.exe
-verclsid.exe
 visualuiaverifynative.exe
 vsdiagnostics.exe
 vshadow.exe
